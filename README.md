@@ -9,7 +9,5 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)  
 
-)  
 
-📫 Më kontakto:  
-[LinkedIn] www.linkedin.com/in/hasan-pisli
+📫 Më kontakto:  hasanpisli3@gmail.com  LinkedIn www.linkedin.com/in/hasan-pisli
